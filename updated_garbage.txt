@@ -1,0 +1,71 @@
+turnip peel,organic,3
+carrot peel,organic,5
+eggplant peel,organic,6
+bunch of rucola,organic,3
+water bottle,plastic,5
+coffee  packet,plastic,8
+butter  packet,plastic,2
+olive  packet,plastic,3
+peanut  packet,plastic,4
+bacon  packet,plastic,2
+yogurt  packet,plastic,3
+milk bottle,plastic,2
+chocolate packet,plastic,5
+mushroom  packet,plastic,2
+Fork,plastic,7
+knife,plastic,6
+Spoon,plastic,8
+plate,plastic,6
+cup,plastic,6
+melon peel,organic,3
+salt packet,paper,5
+sugar packet,paper,5
+muffin packet,paper,3
+brownie packet,paper,3
+paper towel,paper,4
+table cover,paper,8
+avocado peel,organic,2
+appricot peel,organic,4
+peach peel,organic,8
+tangerine peel,organic,4
+wine glass,glass,1
+ayran bottle,glass,5
+beer bottle,glass,12
+mug,glass,7
+bowl,glass,9
+wine bottle,glass,8
+olive oil bottle,glass,14
+pickle jar,glass,5
+grape capstem,organic,2
+kiwi peel,organic,7
+trousers,fabric,4
+t-shirt,fabric,6
+tablecloth,fabric,9
+scarf,fabric,3
+pineapple peel,organic,3
+hazelnut peel,organic,15
+pineapple can,metal,7
+Ladle,metal,6
+colander,metal,4
+pan,metal,10
+bean can,metal,8
+tomato paste can,metal,5
+pea can,metal,6
+potato peel,organic,6
+slice of cheese,organic,10
+loaf of bread,organic,3
+tomato peel,organic,6
+cucumber peel,organic,4
+green pepper,organic,5
+red pepper,organic,5
+slice of salami,organic,10
+orange peel,organic,5
+egg,organic,10
+lettuce,organic,1
+bunch of parsley,organic,2
+onion peel,organic,5
+apple peel,organic,4
+lemon peel,organic,5
+pear peel,organic,5
+watermelon peel,organic,1
+walnut peel,organic,7
